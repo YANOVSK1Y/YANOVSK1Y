@@ -2,7 +2,6 @@
 <h3 align="center">Jnior QA Automation</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=About+me)](https://github.com/YANOVSK1Y)
-
 I am a **Jnior QA Automation** engineer specializing in C# web test automation.
 Also interested in new products in the world of .NET development and IT in general.
 
