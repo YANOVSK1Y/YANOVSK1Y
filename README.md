@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Andrey, Welcome to my GitHub Profile</h1>
 <h3 align="center">Jnior QA Automation</h3>
 
-About me:
+<h3>About me:<\h3>
 I am a **Jnior QA Automation** engineer specializing in C# web test automation.
 Also interested in new products in the world of .NET development and IT in general.
 
