@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! My name is  Andrey, Welcome to my GitHub Profile</h1>
 
 # 💫 About Me:
-I am a **Jnior QA Automation Engineer** specializing in C# web test automation.<br>Also interested in new products in the world of .NET development and IT in general.
+I am a **Jnior QA Automation Engineer** specializing in Java web test automation.<br>Also interested in new products in the world of Java development and IT in general.
 
 
 ## 🌐 Socials:
