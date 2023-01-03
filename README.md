@@ -7,7 +7,7 @@ I am a **Jnior QA Automation Engineer** specializing in Java web test automation
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yanovsk1y/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-yanovskiy-014ba51b1) 
 
-[![My Insta](https://skillicons.dev/icons?i=instagram)](https://github.com/YANOVSK1Y](https://www.instagram.com/yanovsk1y/) [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrey-yanovskiy-014ba51b1))) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yanovsk1y_a)
+[![My Insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yanovsk1y/) [![My Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrey-yanovskiy-014ba51b1) [![My Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yanovsk1y_a)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,docker,git,github,gitlab,selenium,jenkins,idea,mysql,vscode)](https://github.com/YANOVSK1Y)
